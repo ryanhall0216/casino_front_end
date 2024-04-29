@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scrollbar-width: thin;
+  scrollbar-color: #333333 #4c4c4c;
+  font-family: "Lato, Segoe UI";
+}
+
+a {
+  text-decoration: none;
+}
